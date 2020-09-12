@@ -6,5 +6,6 @@
   <img  src="https://raw.githubusercontent.com/ArthurMaverick/Brasil-theme/master/brasil/brasilImg.png" width="200" height="200"/>
 </h1>
 
+<img src="https://raw.githubusercontent.com/ArthurMaverick/Brasil-theme/master/brasil/screenshot.png"/>
 
 
