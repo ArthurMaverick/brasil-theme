@@ -2,7 +2,7 @@
   "name": "midt",
   "type": "dark",
   "colors": {
-    "editor.background": "#282436",
+    "editor.background": "#221f2e",
     "editor.foreground": "#faf0fa",
     "activityBarBadge.background": "#282436",
     "sideBarTitle.foreground": "#DEE3ED"
