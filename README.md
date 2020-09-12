@@ -13,7 +13,9 @@
 ### how install brasil
 
 - open Visual Studio Code 
-- 
+- go to extentions or type (**Ctrl+shift+x**)
+- in Seach Extetions in Marketplace type **brasil**
+- install your brasil theme.
 
 
 
