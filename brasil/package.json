@@ -1,0 +1,36 @@
+{
+    "name": "brasil",
+    "displayName": "brasil",
+    "description": "feel the diversity of our culture and immerse yourself in their values.",
+    "version": "0.0.1",
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/ArthurMaverick/Brasil-theme"
+    },
+    "publisher": "brasil",
+    "author": "Arthur Santos",
+    "icon": "brasilImg.png",
+    "galleryBanner": {
+        "color": "#005555",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "VSCode",
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "brasil",
+                "uiTheme": "vs-dark",
+                "path": "./themes/brasil-color-theme.json"
+            }
+        ]
+    }
+}
