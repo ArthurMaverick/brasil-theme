@@ -18,5 +18,5 @@
 - install your brasil theme.
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/LqaZR9YUXochY4ELeQ/giphy.gif" width="800" height="400"/>
+  <img src="https://media.giphy.com/media/LqaZR9YUXochY4ELeQ/giphy.gif" width="600" height="400"/>
 </h1>
