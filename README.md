@@ -6,6 +6,15 @@
   <img  src="https://raw.githubusercontent.com/ArthurMaverick/Brasil-theme/master/brasil/brasilImg.png" width="200" height="200"/>
 </h1>
 
-<img src="https://raw.githubusercontent.com/ArthurMaverick/Brasil-theme/master/brasil/screenshot.png"/>
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/ArthurMaverick/Brasil-theme/master/brasil/screenshot.png" width="800" height="600"/>
+</h1>
+
+### how install brasil
+
+- open Visual Studio Code 
+- 
+
+
 
 
