@@ -1,12 +1,10 @@
-# Brasil theme
+<h1 align="center"> Brasil</h1>
 
-## a theme with the taste of coconut and the smell of sea breeze
+<h2 align="center"> A theme with the taste of coconut and the smell of sea breeze </h2>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<h1 align="center">
+  <img  src="https://raw.githubusercontent.com/ArthurMaverick/Brasil-theme/master/brasil/brasilImg.png" width="200" height="200"/>
+</h1>
 
-### For more information
 
-- https://www.linkedin.com/in/arthurmcsantos/
-- https://github.com/ArthurMaverick/Brasil-theme
-
-**Enjoy!**
+You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:**Enjoy!**
