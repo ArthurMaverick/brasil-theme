@@ -17,7 +17,7 @@
 
 - open Visual Studio Code 
 - go to extentions or type (**Ctrl+shift+x**)
-- in Search Extetions in Marketplace type **brasil**
+- in Search Extentions in Marketplace type **brasil**
 - install your brasil theme.
 
 <h1 align="center">
